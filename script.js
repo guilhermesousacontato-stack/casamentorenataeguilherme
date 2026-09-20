@@ -459,7 +459,7 @@ const gifts = [
   },
   {
     id: 50,
-    name: "Máquina de fazer pão elétrica",
+    name: "Panificadora",
     link: "https://www.mercadolivre.com.br/panificadora-britania-digital-12-programas-3l-bpne01/p/MLB52824627?pdp_filters=item_id%3AMLB5506867614&from=gshop&matt_tool=74738421&matt_word=&matt_source=google&matt_campaign_id=22090354220&matt_ad_group_id=197094184691&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792355617057&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB52824627-product&matt_product_partition_id=2493287834326&matt_target_id=aud-2493647653083:pla-2493287834326&cq_src=google_ads&cq_cmp=22090354220&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=22090354220&gbraid=0AAAAAD93qcC6dUvonztYPyIalM5VZ9s-5&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-4x_E3JZLk2-3ZDY_rpBeOfoXyFhb0sScFZHlXjtVdxiMlYNAm3eqhoCJScQAvD_BwE",
     contact: false
   },
