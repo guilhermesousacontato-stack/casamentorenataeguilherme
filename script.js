@@ -1,4 +1,4 @@
-/* =========================
+a/* =========================
    MENU MOBILE
 ========================= */
 
@@ -169,10 +169,10 @@ const gifts = [
     link: "https://loja.electrolux.com.br/aspirador-vertical-com-fio-ultra-electrolux-2-mm-1--stk15-/p?idsku=310118545",
     contact: false
   },
-  {
+   {
     id: 2,
-    name: "Cafeteira eletrica",
-    link: "https://loja.electrolux.com.br/cafeteira-eletrica-electrolux-15-xicaras-efficient--ecm10-/p?idsku=310118786",
+    name: "Jogo de talheres",
+    link: "https://www.mercadolivre.com.br/jogo-talheres-faqueiro-buzios-aco-inox-24-pecas-tramontina/p/MLB35092029?product_trigger_id=MLB41306127&picker=true&quantity=1",
     contact: false
   },
   {
@@ -181,10 +181,10 @@ const gifts = [
     link: "https://loja.electrolux.com.br/torradeira-eletrica-electrolux-efficient-ets10-/p?idsku=310118782",
     contact: false
   },
-  {
+ {
     id: 4,
-    name: "Sanduicheira",
-    link: "https://www.amazon.com.br/Sanduicheira-El%C3%A9trica-Cadence-Click-220V/dp/B0CDJ4L7CZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&th=1",
+    name: "Petisqueira",
+    link: "https://www.mercadolivre.com.br/petisqueira-oxford-28cm-branca-cor-branco/p/MLB24280792?pdp_filters=item_id%3AMLB4050242001&from=gshop&matt_tool=31493002&matt_word=&matt_source=google&matt_campaign_id=22090354070&matt_ad_group_id=173090533356&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882727514&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB24280792-product&matt_product_partition_id=2496332721355&matt_target_id=aud-2009166904988:pla-2496332721355&cq_src=google_ads&cq_cmp=22090354070&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354070&gbraid=0AAAAAD93qcDiPtv4erWPFGjw9i4eYLGoU&gclid=CjwKCAjw_KjVBhAHEiwAnC0N9KjywzF_j9pOA1KV57Uehm2wu0MZSRQarfg55Y9td99Zbe0M1crnmhoCZtMQAvD_BwE#reviews",
     contact: false
   },
   {
@@ -193,10 +193,10 @@ const gifts = [
     link: "https://loja.electrolux.com.br/processador-de-alimentos-3-em-1-electrolux-efficient--efp500-/p?idsku=310120426&skuId=310120426",
     contact: false
   },
-  {
+ {
     id: 6,
-    name: "Espremedor de frutas",
-    link: "https://www.amazon.com.br/Espremedor-frutas-laranjas-electrolux-efficient/dp/B0BTMSKQWL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1ZZFT5FULY4LN&th=1",
+    name: "Refratário",
+    link: "https://www.mercadolivre.com.br/conjunto-assadeiras-6-pecas-de-vidro-com-tampa-cinza-marinex/p/MLB28025230?pdp_filters=item_id%3AMLB5525354376&from=gshop&matt_tool=22783954&matt_word=&matt_source=google&matt_campaign_id=23351282105&matt_ad_group_id=193694047367&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871588777&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735125422&matt_product_id=MLB28025230-product&matt_product_partition_id=2496739475471&matt_target_id=aud-2493647653083:pla-2496739475471&cq_src=google_ads&cq_cmp=23351282105&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=23351282105&gbraid=0AAAAAD93qcAU8YwV5ktgh2OviZrwNj_5Y&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-2d2n5KTly0xsoVwn7sX_WKFBYLOUjhJ65O-Yd_iHHkiCdxFEnFbbRoC2dAQAvD_BwE",
     contact: false
   },
   {
@@ -213,8 +213,8 @@ const gifts = [
   },
   {
     id: 9,
-    name: "Liquidificador",
-    link: "https://loja.electrolux.com.br/liquidificador-electrolux-1000w-2-7l-efficient-com-triforce-5-velocidades-cinza--ebl1000-/p?idsku=310128272",
+    name: "Potes",
+    link: "https://loja.electrolux.com.br/potes-hermeticos-electrolux-de-vidro-porta-mantimentos-com-tampa-inox-4-unidades/p?idsku=2004342",
     contact: false
   },
   {
@@ -224,15 +224,15 @@ const gifts = [
     contact: false
   },
   {
-    id: 11,
-    name: "Ventilador",
-    link: "https://www.midea.com.br/outlet-ventilador-de-torre-cor-preto-midea/p?skuId=1367&srsltid=AfmBOopz7WqKWbRssPaZskuBOVshDMamr6d5ZdR15SGGkzom9ZlLopPtBvA",
+  id: 11,
+    name: "Bowls",
+    link: "https://www.amazon.com.br/Conjunto-Bowls-Tigelas-Pl%C3%A1stica-Electrolux/dp/B0C2ZNDWK6/ref=asc_df_B0C2ZNDWK6?mcid=69f81560fadf3108a2ce21c0f32340df&tag=googleshopp00-20&linkCode=df0&hvadid=709964506214&hvpos=&hvnetw=g&hvrand=14009015880655320562&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9196119&hvtargid=pla-2203277870598&hvocijid=14009015880655320562-B0C2ZNDWK6-&hvexpln=0&language=pt_BR&th=1",
     contact: false
   },
-  {
+ {
     id: 12,
-    name: "Jogo de talheres",
-    link: "https://www.mercadolivre.com.br/jogo-talheres-faqueiro-buzios-aco-inox-24-pecas-tramontina/p/MLB35092029?product_trigger_id=MLB41306127&picker=true&quantity=1",
+    name: "Cafeteira eletrica",
+    link: "https://loja.electrolux.com.br/cafeteira-eletrica-electrolux-15-xicaras-efficient--ecm10-/p?idsku=310118786",
     contact: false
   },
   {
@@ -248,15 +248,15 @@ const gifts = [
     contact: false
   },
   {
-    id: 15,
-    name: "Jogo de panelas",
-    link: "https://loja.electrolux.com.br/jogo-de-panelas-inox-5-pecas-electrolux-design/p?idsku=2004322",
+     id: 15,
+    name: "Jogo de sousplat",
+    link: "https://produto.mercadolivre.com.br/MLB-5716874668-jogo-americano-6-lugar-couro-souplast-restaurante-mesa-grand-_JM?matt_tool=40566012&matt_word=&matt_source=google&matt_campaign_id=23440873650&matt_ad_group_id=197094179931&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792396422593&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5586362814&matt_product_id=MLB5716874668&matt_product_partition_id=2495844921979&matt_target_id=pla-2495844921979&cq_src=google_ads&cq_cmp=23440873650&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23440873650&gbraid=0AAAAAD93qcCenNjL2-az5sYl4_8ulRiWL&gclid=CjwKCAjw2aPVBhBkEiwA0Cptt4GUzhDj0LTuYLSKETlvEySgv6V4HPR-XXlK7T0KhKb3Q_389CwCuRoCXnUQAvD_BwE",
     contact: false
   },
   {
-    id: 16,
-    name: "Potes",
-    link: "https://loja.electrolux.com.br/potes-hermeticos-electrolux-de-vidro-porta-mantimentos-com-tampa-inox-4-unidades/p?idsku=2004342",
+   id: 16,
+    name: "Liquidificador",
+    link: "https://loja.electrolux.com.br/liquidificador-electrolux-1000w-2-7l-efficient-com-triforce-5-velocidades-cinza--ebl1000-/p?idsku=310128272",
     contact: false
   },
   {
@@ -266,9 +266,9 @@ const gifts = [
     contact: false
   },
   {
-    id: 18,
-    name: "Bowls",
-    link: "https://www.amazon.com.br/Conjunto-Bowls-Tigelas-Pl%C3%A1stica-Electrolux/dp/B0C2ZNDWK6/ref=asc_df_B0C2ZNDWK6?mcid=69f81560fadf3108a2ce21c0f32340df&tag=googleshopp00-20&linkCode=df0&hvadid=709964506214&hvpos=&hvnetw=g&hvrand=14009015880655320562&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9196119&hvtargid=pla-2203277870598&hvocijid=14009015880655320562-B0C2ZNDWK6-&hvexpln=0&language=pt_BR&th=1",
+     id: 18,
+    name: "Ventilador",
+    link: "https://www.midea.com.br/outlet-ventilador-de-torre-cor-preto-midea/p?skuId=1367&srsltid=AfmBOopz7WqKWbRssPaZskuBOVshDMamr6d5ZdR15SGGkzom9ZlLopPtBvA",
     contact: false
   },
   {
@@ -332,9 +332,9 @@ const gifts = [
     contact: false
   },
   {
-    id: 29,
-    name: "Alexa",
-    link: "https://www.mercadolivre.com.br/nova-amazon-alexa-echo-show-5-3a-geracao-cor-branco/p/MLB33065785?product_trigger_id=MLB20540256&pdp_filters=item_id%3AMLB3629859861&applied_product_filters=MLB33065785&from=gshop&picker=true&matt_tool=84620768&matt_word=&matt_source=google&matt_campaign_id=22108294455&matt_ad_group_id=172691705225&matt_match_type=&matt_network=g&matt_device=c&matt_creative=728716564705&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB33065785-product&matt_product_partition_id=297612067635&matt_target_id=aud-2493647653083:pla-297612067635&cq_src=google_ads&cq_cmp=22108294455&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=22108294455&gbraid=0AAAAAD93qcC4EwFItUIdXDOxz0kXiwZ8o&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-0VYemc7v1xGpA5tJ_BR_GjFFSBVhTqKrzn0mOc9WOG7wXrpumpknRoC-RkQAvD_BwE&quantity=1",
+     id: 29,
+    name: "Jogo de facas",
+    link: "https://www.tramontina.com.br/jogo-de-facas-tramontina-plenus-com-laminas-em-aco-inox-e-cabos-de-polipropileno-preto-07-pecas/23498066.html?srsltid=AfmBOopmcqZzLG5x1YFxqHotA5h5IePmmt-YJ9PxrtZ3m5MKkNeH5hbV_Hc",
     contact: false
   },
   {
@@ -350,9 +350,9 @@ const gifts = [
     contact: false
   },
   {
-    id: 32,
-    name: "Jogo de sousplat",
-    link: "https://produto.mercadolivre.com.br/MLB-5716874668-jogo-americano-6-lugar-couro-souplast-restaurante-mesa-grand-_JM?matt_tool=40566012&matt_word=&matt_source=google&matt_campaign_id=23440873650&matt_ad_group_id=197094179931&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792396422593&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5586362814&matt_product_id=MLB5716874668&matt_product_partition_id=2495844921979&matt_target_id=pla-2495844921979&cq_src=google_ads&cq_cmp=23440873650&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23440873650&gbraid=0AAAAAD93qcCenNjL2-az5sYl4_8ulRiWL&gclid=CjwKCAjw2aPVBhBkEiwA0Cptt4GUzhDj0LTuYLSKETlvEySgv6V4HPR-XXlK7T0KhKb3Q_389CwCuRoCXnUQAvD_BwE",
+     id: 32,
+    name: "Jogo de panelas",
+    link: "https://loja.electrolux.com.br/jogo-de-panelas-inox-5-pecas-electrolux-design/p?idsku=2004322",
     contact: false
   },
   {
@@ -362,9 +362,9 @@ const gifts = [
     contact: false
   },
   {
-    id: 34,
-    name: "Robô aspirador",
-    link: "https://www.mercadolivre.com.br/xiaomi-robot-vacuum-s40-us-cor-branca/p/MLB62453968?pdp_filters=item_id%3AMLB7338453618&from=gshop&matt_tool=56164162&matt_word=&matt_source=google&matt_campaign_id=22090193744&matt_ad_group_id=194474655274&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792355615569&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128761&matt_product_id=MLB62453968-product&matt_product_partition_id=2497295372793&matt_target_id=aud-2493647653083:pla-2497295372793&cq_src=google_ads&cq_cmp=22090193744&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=22090193744&gbraid=0AAAAAD93qcAf5Wct43PIk7ww7nyAXt_rg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-6NsGk9S2v_hrubYBvKkc3pr-raNK6IueLy8FqqbWvJ3FyuriKPSnhoC0_0QAvD_BwE",
+     id: 34,
+    name: "Garrafa térmica",
+    link: "https://www.mercadolivre.com.br/garrafa-termica-cafe-nordica-bege-1-lt-cabo-estilo-madeira/up/MLBU1460292684?pdp_filters=seller_id%3A1051732275#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=fallback_same-seller&reco_client=vip-seller_items-above&reco_item_pos=0&reco_backend_type=low_level&reco_id=0b2d7f3b-d887-48b5-8c07-14c9a90b6ce1&wid=MLB3770137457&sid=recos",
     contact: false
   },
   {
@@ -380,9 +380,9 @@ const gifts = [
     contact: false
   },
   {
-    id: 37,
-    name: "Refratário",
-    link: "https://www.mercadolivre.com.br/conjunto-assadeiras-6-pecas-de-vidro-com-tampa-cinza-marinex/p/MLB28025230?pdp_filters=item_id%3AMLB5525354376&from=gshop&matt_tool=22783954&matt_word=&matt_source=google&matt_campaign_id=23351282105&matt_ad_group_id=193694047367&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871588777&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735125422&matt_product_id=MLB28025230-product&matt_product_partition_id=2496739475471&matt_target_id=aud-2493647653083:pla-2496739475471&cq_src=google_ads&cq_cmp=23351282105&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=23351282105&gbraid=0AAAAAD93qcAU8YwV5ktgh2OviZrwNj_5Y&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-2d2n5KTly0xsoVwn7sX_WKFBYLOUjhJ65O-Yd_iHHkiCdxFEnFbbRoC2dAQAvD_BwE",
+     id: 37,
+    name: "Espremedor de frutas",
+    link: "https://www.amazon.com.br/Espremedor-frutas-laranjas-electrolux-efficient/dp/B0BTMSKQWL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1ZZFT5FULY4LN&th=1",
     contact: false
   },
   {
@@ -422,15 +422,15 @@ const gifts = [
     contact: false
   },
   {
-    id: 44,
-    name: "Garrafa térmica",
-    link: "https://www.mercadolivre.com.br/garrafa-termica-cafe-nordica-bege-1-lt-cabo-estilo-madeira/up/MLBU1460292684?pdp_filters=seller_id%3A1051732275#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=fallback_same-seller&reco_client=vip-seller_items-above&reco_item_pos=0&reco_backend_type=low_level&reco_id=0b2d7f3b-d887-48b5-8c07-14c9a90b6ce1&wid=MLB3770137457&sid=recos",
+   id: 44,
+    name: "Robô aspirador",
+    link: "https://www.mercadolivre.com.br/xiaomi-robot-vacuum-s40-us-cor-branca/p/MLB62453968?pdp_filters=item_id%3AMLB7338453618&from=gshop&matt_tool=56164162&matt_word=&matt_source=google&matt_campaign_id=22090193744&matt_ad_group_id=194474655274&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792355615569&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128761&matt_product_id=MLB62453968-product&matt_product_partition_id=2497295372793&matt_target_id=aud-2493647653083:pla-2497295372793&cq_src=google_ads&cq_cmp=22090193744&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=22090193744&gbraid=0AAAAAD93qcAf5Wct43PIk7ww7nyAXt_rg&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-6NsGk9S2v_hrubYBvKkc3pr-raNK6IueLy8FqqbWvJ3FyuriKPSnhoC0_0QAvD_BwE",
     contact: false
   },
-  {
+   {
     id: 45,
-    name: "Petisqueira",
-    link: "https://www.mercadolivre.com.br/petisqueira-oxford-28cm-branca-cor-branco/p/MLB24280792?pdp_filters=item_id%3AMLB4050242001&from=gshop&matt_tool=31493002&matt_word=&matt_source=google&matt_campaign_id=22090354070&matt_ad_group_id=173090533356&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882727514&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB24280792-product&matt_product_partition_id=2496332721355&matt_target_id=aud-2009166904988:pla-2496332721355&cq_src=google_ads&cq_cmp=22090354070&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354070&gbraid=0AAAAAD93qcDiPtv4erWPFGjw9i4eYLGoU&gclid=CjwKCAjw_KjVBhAHEiwAnC0N9KjywzF_j9pOA1KV57Uehm2wu0MZSRQarfg55Y9td99Zbe0M1crnmhoCZtMQAvD_BwE#reviews",
+    name: "Sanduicheira",
+    link: "https://www.amazon.com.br/Sanduicheira-El%C3%A9trica-Cadence-Click-220V/dp/B0CDJ4L7CZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&th=1",
     contact: false
   },
   {
@@ -501,8 +501,8 @@ const gifts = [
   },
   {
     id: 57,
-    name: "Lava e seca",
-    link: "https://shopee.com.br/product/1009975506/47911215368?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEdAAAAAzMKx8m2eJ_WPqDvGfU165H50NIUdUKUoa2uWtmhPPxmc-RdMJqGwue8eabHEb4vBvwJkYTdoqr6FQsFZ7HeF4W7gMCrVtJjEotl9i8Kw5vqHoh6Ji1rnaSgYlZ0YROfBpBwJf6YcgKgkNMcmi4hn_9&gad_source=4&gad_campaignid=23475625589&gbraid=0AAAAACoEtRkfDlkOM3Fbif48GMOxDuHbY&gclid=Cj0KCQjw5bjVBhCiARIsAJzMVnT37acCucI-hQNayYNugvHxBqG076fg8uzaXfCrMYEAYorR7Ch00bkaAg4HEALw_wcB",
+    name: "Torneira",
+    link: "https://www.mercadolivre.com.br/torneira-monocomando-cozinha-gourmet-para-pia-bancada-flexivel-cor-inox-304-escovado-prateado-60cm-tubo/p/MLB48470753#polycard_client=search_best-seller&tracking_id=9e34d27f-efa0-41ed-9cea-ec287a57fd47&wid=MLB7639903844&sid=search",
     contact: false
   },
   {
@@ -518,10 +518,10 @@ const gifts = [
     contact: false
   },
   {
-    id: 60,
-    name: "Sofá",
-    link: "",
-    contact: true
+   id: 60,
+    name: "Taça de sobremesa",
+    link: "https://www.mercadolivre.com.br/tacas-sobremesa-vidro-hauskraft-graffiato-310ml-jogo-6-pcs-transparente/p/MLB28988017?product_trigger_id=MLB70206201&pdp_filters=item_id%3AMLB7525156532&applied_product_filters=MLB28988017&from=gshop&picker=true&matt_tool=31493002&matt_word=&matt_source=google&matt_campaign_id=22090354070&matt_ad_group_id=173090534156&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882727508&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB28988017-product&matt_product_partition_id=2494011709386&matt_target_id=pla-2494011709386&cq_src=google_ads&cq_cmp=22090354070&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354070&gbraid=0AAAAAD93qcCECL6kiSeOfSpB8kMZ6AMq8&gclid=CjwKCAjwwrPVBhA1EiwAv_YO-TU-CjZ0JZ8WqS-80stNXHdVFYzkg4IykjhEBzcslM3yJ0wbusvQCBoCTiAQAvD_BwE&quantity=1",
+    contact: false
   },
   {
     id: 61,
@@ -543,8 +543,8 @@ const gifts = [
   },
   {
     id: 64,
-    name: "Torneira",
-    link: "https://www.mercadolivre.com.br/torneira-monocomando-cozinha-gourmet-para-pia-bancada-flexivel-cor-inox-304-escovado-prateado-60cm-tubo/p/MLB48470753#polycard_client=search_best-seller&tracking_id=9e34d27f-efa0-41ed-9cea-ec287a57fd47&wid=MLB7639903844&sid=search",
+    name: "Tapete sala",
+    link: "https://www.mercadolivre.com.br/tapete-sala-quarto-grande-300x200-algodao-antiderrapante-comprimento-3-m-cor-creme-largura-3-m/p/MLB70179633?pdp_filters=item_id:MLB6838254622#polycard_client=recommendations_vip-pads-up&wid=MLB6838254622&sid=recos&reco_backend=recomm_platform_base_pads_rfa_MERGE_marketplace&reco_model=recos_backend_only&reco_client=vip-pads-up&reco_item_pos=0&reco_backend_type=low_level&reco_id=2ec1f7ea-436b-42b9-9d4d-415695eaf951&is_advertising=true&ad_domain=VIPDESKTOP_UP&ad_position=1&ad_click_id=ZWQwYjdlNWYtOTRkYi00ODZlLWIxZGYtM2I1ZWViMjY2N2I5",
     contact: false
   },
   {
@@ -573,8 +573,8 @@ const gifts = [
   },
   {
     id: 69,
-    name: "Jogo de facas",
-    link: "https://www.tramontina.com.br/jogo-de-facas-tramontina-plenus-com-laminas-em-aco-inox-e-cabos-de-polipropileno-preto-07-pecas/23498066.html?srsltid=AfmBOopmcqZzLG5x1YFxqHotA5h5IePmmt-YJ9PxrtZ3m5MKkNeH5hbV_Hc",
+    name: "Alexa",
+    link: "https://www.mercadolivre.com.br/nova-amazon-alexa-echo-show-5-3a-geracao-cor-branco/p/MLB33065785?product_trigger_id=MLB20540256&pdp_filters=item_id%3AMLB3629859861&applied_product_filters=MLB33065785&from=gshop&picker=true&matt_tool=84620768&matt_word=&matt_source=google&matt_campaign_id=22108294455&matt_ad_group_id=172691705225&matt_match_type=&matt_network=g&matt_device=c&matt_creative=728716564705&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB33065785-product&matt_product_partition_id=297612067635&matt_target_id=aud-2493647653083:pla-297612067635&cq_src=google_ads&cq_cmp=22108294455&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=22108294455&gbraid=0AAAAAD93qcC4EwFItUIdXDOxz0kXiwZ8o&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-0VYemc7v1xGpA5tJ_BR_GjFFSBVhTqKrzn0mOc9WOG7wXrpumpknRoC-RkQAvD_BwE&quantity=1",
     contact: false
   },
   {
@@ -596,10 +596,10 @@ const gifts = [
     contact: false
   },
    {
-    id: 73,
-    name: "Taça de sobremesa",
-    link: "https://www.mercadolivre.com.br/tacas-sobremesa-vidro-hauskraft-graffiato-310ml-jogo-6-pcs-transparente/p/MLB28988017?product_trigger_id=MLB70206201&pdp_filters=item_id%3AMLB7525156532&applied_product_filters=MLB28988017&from=gshop&picker=true&matt_tool=31493002&matt_word=&matt_source=google&matt_campaign_id=22090354070&matt_ad_group_id=173090534156&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882727508&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB28988017-product&matt_product_partition_id=2494011709386&matt_target_id=pla-2494011709386&cq_src=google_ads&cq_cmp=22090354070&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354070&gbraid=0AAAAAD93qcCECL6kiSeOfSpB8kMZ6AMq8&gclid=CjwKCAjwwrPVBhA1EiwAv_YO-TU-CjZ0JZ8WqS-80stNXHdVFYzkg4IykjhEBzcslM3yJ0wbusvQCBoCTiAQAvD_BwE&quantity=1",
-    contact: false
+id: 73,
+    name: "Sofá",
+    link: "",
+    contact: true
   },
   {
     id: 74,
@@ -614,9 +614,9 @@ const gifts = [
     contact: false
   },
   {
-    id: 76,
-    name: "Tapete sala",
-    link: "https://www.mercadolivre.com.br/tapete-sala-quarto-grande-300x200-algodao-antiderrapante-comprimento-3-m-cor-creme-largura-3-m/p/MLB70179633?pdp_filters=item_id:MLB6838254622#polycard_client=recommendations_vip-pads-up&wid=MLB6838254622&sid=recos&reco_backend=recomm_platform_base_pads_rfa_MERGE_marketplace&reco_model=recos_backend_only&reco_client=vip-pads-up&reco_item_pos=0&reco_backend_type=low_level&reco_id=2ec1f7ea-436b-42b9-9d4d-415695eaf951&is_advertising=true&ad_domain=VIPDESKTOP_UP&ad_position=1&ad_click_id=ZWQwYjdlNWYtOTRkYi00ODZlLWIxZGYtM2I1ZWViMjY2N2I5",
+     id: 76,
+    name: "Lava e seca",
+    link: "https://shopee.com.br/product/1009975506/47911215368?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEdAAAAAzMKx8m2eJ_WPqDvGfU165H50NIUdUKUoa2uWtmhPPxmc-RdMJqGwue8eabHEb4vBvwJkYTdoqr6FQsFZ7HeF4W7gMCrVtJjEotl9i8Kw5vqHoh6Ji1rnaSgYlZ0YROfBpBwJf6YcgKgkNMcmi4hn_9&gad_source=4&gad_campaignid=23475625589&gbraid=0AAAAACoEtRkfDlkOM3Fbif48GMOxDuHbY&gclid=Cj0KCQjw5bjVBhCiARIsAJzMVnT37acCucI-hQNayYNugvHxBqG076fg8uzaXfCrMYEAYorR7Ch00bkaAg4HEALw_wcB",
     contact: false
   },
   {
