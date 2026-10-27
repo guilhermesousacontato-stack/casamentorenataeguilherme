@@ -1014,6 +1014,57 @@ input {
 }
 
 
+/* NÚMEROS DAS PÁGINAS */
+
+.pagination-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 40px;
+
+  width: 40px;
+  height: 46px;
+  padding: 0;
+
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--brown);
+
+  font-family: var(--sans);
+  font-size: 13px;
+
+  cursor: pointer;
+
+  transition:
+    background 0.3s ease,
+    color 0.3s ease,
+    border-color 0.3s ease,
+    transform 0.2s ease;
+}
+
+.pagination-number:hover {
+  border-color: var(--champagne);
+  background: var(--cream);
+}
+
+.pagination-number.active {
+  border-color: var(--brown);
+  background: var(--brown);
+  color: white;
+}
+
+.pagination-number.active:hover {
+  border-color: var(--text);
+  background: var(--text);
+}
+
+.pagination-number:focus-visible,
+.pagination-arrow:focus-visible {
+  outline: 2px solid var(--olive);
+  outline-offset: 3px;
+}
+
+
 .pagination-info {
   min-width: 130px;
 
@@ -1849,18 +1900,28 @@ input {
 
 
   .gift-pagination {
-    gap: 14px;
+    gap: 8px;
+    flex-wrap: wrap;
 
     margin-top: 38px;
   }
 
 
   .pagination-arrow {
+    flex: 0 0 40px;
     width: 40px;
 
     height: 40px;
 
     font-size: 16px;
+  }
+
+
+  .pagination-number {
+    flex: 0 0 34px;
+    width: 34px;
+    height: 40px;
+    font-size: 12px;
   }
 
 
