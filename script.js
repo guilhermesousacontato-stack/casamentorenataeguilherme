@@ -861,114 +861,72 @@ function scrollToGiftsTop() {
 }
 
 
+
 function renderPagination(totalPages) {
-
-  const pagination =
-    document.getElementById("gift-pagination");
-
+  const pagination = document.getElementById("gift-pagination");
   if (!pagination) return;
-
 
   pagination.innerHTML = "";
 
+  if (totalPages <= 1) return;
 
-  if (totalPages <= 1) {
-    return;
-  }
-
-
-  const prevButton =
-    document.createElement("button");
-
+  // Seta para voltar
+  const prevButton = document.createElement("button");
   prevButton.type = "button";
-
-  prevButton.className =
-    "pagination-arrow";
-
-  prevButton.setAttribute(
-    "aria-label",
-    "Presentes anteriores"
-  );
-
+  prevButton.className = "pagination-arrow";
   prevButton.innerHTML = "&#8249;";
+  prevButton.setAttribute("aria-label", "Página anterior");
+  prevButton.disabled = currentPage === 1;
 
-  prevButton.disabled =
-    currentPage === 1;
-
-
-  prevButton.addEventListener(
-    "click",
-    () => {
-
-      if (currentPage > 1) {
-
-        currentPage -= 1;
-
-        renderGifts();
-
-        scrollToGiftsTop();
-
-      }
-
+  prevButton.addEventListener("click", () => {
+    if (currentPage > 1) {
+      currentPage--;
+      renderGifts();
+      scrollToGiftsTop();
     }
-  );
-
-
-  const info =
-    document.createElement("span");
-
-  info.className =
-    "pagination-info";
-
-  info.textContent =
-    `PÁGINA ${currentPage} DE ${totalPages}`;
-
-
-  const nextButton =
-    document.createElement("button");
-
-  nextButton.type = "button";
-
-  nextButton.className =
-    "pagination-arrow";
-
-  nextButton.setAttribute(
-    "aria-label",
-    "Próximos presentes"
-  );
-
-  nextButton.innerHTML = "&#8250;";
-
-  nextButton.disabled =
-    currentPage === totalPages;
-
-
-  nextButton.addEventListener(
-    "click",
-    () => {
-
-      if (currentPage < totalPages) {
-
-        currentPage += 1;
-
-        renderGifts();
-
-        scrollToGiftsTop();
-
-      }
-
-    }
-  );
-
+  });
 
   pagination.appendChild(prevButton);
 
-  pagination.appendChild(info);
+  // Números das páginas
+  for (let page = 1; page <= totalPages; page++) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "pagination-number";
+    button.textContent = page;
+
+    if (page === currentPage) {
+      button.classList.add("active");
+      button.setAttribute("aria-current", "page");
+    }
+
+    button.addEventListener("click", () => {
+      currentPage = page;
+      renderGifts();
+      scrollToGiftsTop();
+    });
+
+    pagination.appendChild(button);
+  }
+
+  // Seta para avançar
+  const nextButton = document.createElement("button");
+  nextButton.type = "button";
+  nextButton.className = "pagination-arrow";
+  nextButton.innerHTML = "&#8250;";
+  nextButton.setAttribute("aria-label", "Próxima página");
+  nextButton.disabled = currentPage === totalPages;
+
+  nextButton.addEventListener("click", () => {
+    if (currentPage < totalPages) {
+      currentPage++;
+      renderGifts();
+      scrollToGiftsTop();
+    }
+  });
 
   pagination.appendChild(nextButton);
-
 }
-
 
 /* =========================
    FOTOS DOS PRESENTES
