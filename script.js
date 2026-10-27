@@ -631,6 +631,96 @@ id: 73,
     link: "https://www.mercadolivre.com.br/3-potes-hermetico-inox-vidro-1l-etiq-cafe-acucar-sal-black/up/MLBU3668145368?pdp_filters=item_id%3AMLB6022119318&from=gshop&matt_tool=22783954&matt_word=&matt_source=google&matt_campaign_id=23351282105&matt_ad_group_id=193694047407&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871588780&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5692253658&matt_product_id=MLBU3668145368&matt_product_partition_id=2493898491089&matt_target_id=pla-2493898491089&cq_src=google_ads&cq_cmp=23351282105&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23351282105&gbraid=0AAAAAD93qcCeGWHe-zVd5B2NaURXh2yla&gclid=Cj0KCQjw5bjVBhCiARIsAJzMVnR2N-J4E3cQrAsI3d5pxU5L8-OtUz0cTEMg_cJgGHYRR2z42Q5db_4aAsKHEALw_wcB",
     contact: false
   },
+   {
+    id: 79,
+    name: "Bowls Porcelana",
+    link: "https://www.mercadolivre.com.br/conjunto-4-bowls-porcelana-oxford-ryo-maresia-500ml-apto-micro-ondas/p/MLB47710185?pdp_filters=item_id%3AMLB5829252452&from=gshop&matt_tool=31493002&matt_word=&matt_source=google&matt_campaign_id=22090354070&matt_ad_group_id=173090534356&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882727514&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB47710185-product&matt_product_partition_id=2496332721355&matt_target_id=pla-2496332721355&cq_src=google_ads&cq_cmp=22090354070&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354070&gbraid=0AAAAAD93qcCECL6kiSeOfSpB8kMZ6AMq8&gclid=CjwKCAjwwrPVBhA1EiwAv_YO-WZ_irflh3fa0bef9f8SvWZXtv3LVNLxFzuvy0PJeGPNxHaoIEAk7RoCQC0QAvD_BwE",
+    contact: false
+  },
+   {
+    id: 80,
+    name: "Caneca de Porcelana",
+    link: "https://www.oxfordporcelanas.com.br/jogo-de-4-canecas-350ml-flat-chuvisco/p",
+    contact: false
+  },
+   {
+    id: 81,
+    name: "Cabides",
+    link: "https://www.mercadolivre.com.br/kit-50-cabides-de-veludo-slim-antideslizante-ultrafinos-cor-begeprata/p/MLB75799923?product_trigger_id=MLB55500325&pdp_filters=item_id%3AMLB6287285210&applied_product_filters=MLB55248733&from=gshop&picker=true&matt_tool=37064035&matt_word=&matt_source=google&matt_campaign_id=22090354481&matt_ad_group_id=173090607556&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727882733019&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB55248733-product&matt_product_partition_id=2494470067173&matt_target_id=pla-2494470067173&cq_src=google_ads&cq_cmp=22090354481&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354481&gbraid=0AAAAAD93qcAC4rX7CrnsDZFOFe_B4v1iv&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ93dmS_0rvS3erW0PSGqt76538NAv3XP7t_lNgPjSmYWRuG7DMz7toMaAubvEALw_wcB&quantity=1",
+    contact: false
+  },
+     {
+    id: 82,
+    name: "Escadinha",
+    link: "https://www.mercadolivre.com.br/escada-banqueta-de-aluminio-com-3-degraus-botafogo-lar-lazer/p/MLB36709169?pdp_filters=item_id%3AMLB3920726531&from=gshop&matt_tool=94591846&matt_word=&matt_source=google&matt_campaign_id=23440873638&matt_ad_group_id=197094167731&matt_match_type=&matt_network=g&matt_device=c&matt_creative=792396421867&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB36709169-product&matt_product_partition_id=2496044668690&matt_target_id=pla-2496044668690&cq_src=google_ads&cq_cmp=23440873638&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23440873638&gbraid=0AAAAAD93qcClFY_wBnE_0iQ4arPvSGqFu&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ92GtxgMoAE2cewypu24AYoglMTcVy7KGis743TaLGXhBNzEjR07L4EaAgydEALw_wcB",
+    contact: false
+  },
+    {
+    id: 83,
+    name: "Cesto de Roupa",
+    link: "https://www.mercadolivre.com.br/cesto-organizador-oenon-dobravel-grande-para-lavanderia-e-banheiro/p/MLB74779809#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=6&type=product&tracking_id=89cb25f9-ec87-465a-ab7c-3c3d40c2d7a3&wid=MLB4993089633&sid=search",
+    contact: false
+  },
+    {
+    id: 84,
+    name: "Medidor",
+    link: "https://www.camicado.com.br/p/jogo-de-medidores-home-style-cocinero/-/A-100463678-br.lc?sku=100463686&utm_id=18288222626&gad_source=1&gad_campaignid=18284302225&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-DMVL4023DzFvlebqyRYGcjpvOhCXVtbudMD_A30F1Fw1lw5ElDUzhoCPbIQAvD_BwE",
+    contact: false
+  },
+   {
+    id: 85,
+    name: "Frigideira",
+    link: "https://www.tramontina.com.br/jogo-de-frigideiras-tramontina-turim-em-aluminio-com-revestimento-interno-e-externo-em-antiaderente-starflon-max-chumbo-2-pecas/20198660.html?gad_source=1&gad_campaignid=16780160538&gbraid=0AAAAAC9EDsKzWILx5oJOp0P2kJnUHCXv6&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-GG6g9Aj199V3BfJk055V4KP-RWxgRH3LeZI3xCZYvXD374T_bfigRoCAJ4QAvD_BwE",
+    contact: false
+  },
+   {
+    id: 86,
+    name: "Balança digital",
+    link: "https://www.mercadolivre.com.br/balanca-digital-10kg-aco-inox-para-cozinha-e-dieta-pesar-alimentos-portatil-de-alta-precisao-prateada-a-pilha/p/MLB52364009?pdp_filters=item_id%3AMLB6433992038&from=gshop&matt_tool=86217123&matt_word=&matt_source=google&matt_campaign_id=23351282321&matt_ad_group_id=191545525122&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871604143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB52364009-product&matt_product_partition_id=2497465931170&matt_target_id=pla-2497465931170&cq_src=google_ads&cq_cmp=23351282321&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23351282321&gbraid=0AAAAAD93qcA9x4GPHONhcAauA_StKM1M9&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-NaMTzLc8Pp6vDny0jJR3F2Zb-_dxprImDXSBnG-4AQGyezXfM0rzBoCMhYQAvD_BwE",
+    contact: false
+  },
+   {
+    id: 87,
+    name: "Rolo de massa",
+    link: "https://www.mercadolivre.com.br/rolo-de-massa-mimo-style-inox-massa-macarrao-pizza-pao-antiaderente/p/MLB26330479?pdp_filters=item_id%3AMLB7658253012&from=gshop&matt_tool=86217123&matt_word=&matt_source=google&matt_campaign_id=23351282321&matt_ad_group_id=191545525122&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871604143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB26330479-product&matt_product_partition_id=2497465931010&matt_target_id=pla-2497465931010&cq_src=google_ads&cq_cmp=23351282321&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23351282321&gbraid=0AAAAAD93qcA9x4GPHONhcAauA_StKM1M9&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-M70QujhgOztxY2iYzswu-SBwX2fHmsCTqLJuCGYjT_DYMdgG3NLFBoCPoAQAvD_BwE",
+    contact: false
+  },
+   {
+    id: 88,
+    name: "Abridor de lata",
+    link: "https://www.mercadolivre.com.br/abridor-de-lata-automatico-manual-profissional-aco-inox-emborrachado-abre-latas-facil-sem-esforco-corte-lateral-seguro-sem-rebarbas-abridor-de-lata-cozinha-casa-restaurante-bar-uso-diario-premium/p/MLB65237219?pdp_filters=item_id%3AMLB5697831004&from=gshop&matt_tool=86217123&matt_word=&matt_source=google&matt_campaign_id=23351282321&matt_ad_group_id=191545525122&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871604143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735125422&matt_product_id=MLB65237219-product&matt_product_partition_id=2497465931010&matt_target_id=pla-2497465931010&cq_src=google_ads&cq_cmp=23351282321&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23351282321&gbraid=0AAAAAD93qcA9x4GPHONhcAauA_StKM1M9&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-CPUPMl9ULbmdCxC_ardNywckYluQiUVn3rh_JWIM3hn_AaxLcmdRhoCkfsQAvD_BwE",
+    contact: false
+  },
+   {
+    id: 89,
+    name: "Descanso de panela",
+    link: "https://www.mercadolivre.com.br/jogo-6-descanso-de-panela-protecao-calor-pia-cozinha-armario/up/MLBU2932328698?pdp_filters=item_id%3AMLB5245256306&from=gshop&matt_tool=31493002&matt_word=&matt_source=google&matt_campaign_id=22090354070&matt_ad_group_id=191786770241&matt_match_type=&matt_network=g&matt_device=c&matt_creative=782869962212&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=304799137&matt_product_id=MLBU2932328698&matt_product_partition_id=2499439066457&matt_target_id=pla-2499439066457&cq_src=google_ads&cq_cmp=22090354070&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090354070&gbraid=0AAAAAD93qcClVDBfk-jhMD_HbBITaloZJ&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-BhLv9EQcGDtunlWmpan8jXPZkn-75YJIq7HWMsQM6eQVZJpe9mcVhoCaI4QAvD_BwE",
+    contact: false
+  },
+   {
+    id: 90,
+    name: "Luvas termicas",
+    link: "https://www.mercadolivre.com.br/kit-par-de-luvas-termicas-para-forno-fogao-assadeira-panela-churrasco-bbq-protecao-das-maos-e-punhos-epi-suporta-calor-altas-temperaturas-ate-300-graus-mao-de-gato-forrada-em-algodao/p/MLB66740071?pdp_filters=item_id%3AMLB4536825699&from=gshop&matt_tool=86217123&matt_word=&matt_source=google&matt_campaign_id=23351282321&matt_ad_group_id=191545524922&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871604137&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128188&matt_product_id=MLB66740071-product&matt_product_partition_id=2497522644665&matt_target_id=pla-2497522644665&cq_src=google_ads&cq_cmp=23351282321&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=23351282321&gbraid=0AAAAAD93qcA9x4GPHONhcAauA_StKM1M9&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-BXPjRFfGBUzjPQpv9kUWQk_8epi1uzR_joX1fatC_4ZTULIAU1xnhoCieMQAvD_BwE",
+    contact: false
+  },
+   {
+    id: 91,
+    name: "Porta temperos",
+    link: "https://www.amazon.com.br/Temperos-Pimenteiro-Inoxid%C3%A1vel-Girat%C3%B3ria-Condimentos/dp/B0FNNCTJKM/ref=asc_df_B0FNNCTJKM?mcid=5c459b22f3c7341daa2a2741e715dabb&tag=googleshopp00-20&linkCode=df0&hvadid=759181789176&hvpos=&hvnetw=g&hvrand=10272624395560297719&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9195695&hvtargid=pla-2464754778474&psc=1&hvocijid=10272624395560297719-B0FNNCTJKM-&hvexpln=0&language=pt_BR",
+    contact: false
+  },
+   {
+    id: 92,
+    name: "Kit vassoura",
+    link: "https://www.mercadolivre.com.br/multiclean-pro-4-em-1--vassoura-pa-esfregao-rodo-e-escova/up/MLBU4245044737?pdp_filters=item_id%3AMLB4866696305&from=gshop&matt_tool=96500450&matt_word=&matt_source=google&matt_campaign_id=22090193675&matt_ad_group_id=174661945884&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914178267&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=213464031&matt_product_id=MLBU4245044737&matt_product_partition_id=2497245723258&matt_target_id=pla-2497245723258&cq_src=google_ads&cq_cmp=22090193675&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193675&gbraid=0AAAAAD93qcB-T2TxElQC878kfsOKSGl_q&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-F1Bhw-rkdHarAJzW4qbtXJJ8onQJ6KopQ6PK7isJ1bQPZJb0NXsmBoCS4QQAvD_BwE",
+    contact: false
+  },
+   {
+    id: 93,
+    name: "Baldes",
+    link: "https://www.mercadolivre.com.br/kit-2-balde-dobravel-10l-retratil-reforcado-multiuso-compacto-cinza-silicone-premium-vapt-vupt/p/MLB53604208?pdp_filters=item_id%3AMLB5553647542&from=gshop&matt_tool=96500450&matt_word=&matt_source=google&matt_campaign_id=22090193675&matt_ad_group_id=174661945884&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914178267&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735125422&matt_product_id=MLB53604208-product&matt_product_partition_id=2497245723298&matt_target_id=pla-2497245723298&cq_src=google_ads&cq_cmp=22090193675&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193675&gbraid=0AAAAAD93qcB-T2TxElQC878kfsOKSGl_q&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-F7NdTBTkIA-4_OXXavRNdNtSD2SPqdS9W1ptxCAWbDwy9ySvQC3QhoCgdUQAvD_BwE",
+    contact: false
+  },
 ];
 
 
