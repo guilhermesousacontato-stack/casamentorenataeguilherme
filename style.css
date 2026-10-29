@@ -955,6 +955,197 @@ input {
 
 
 /* =========================
+   CATEGORIAS DE PRESENTES
+========================= */
+
+.gift-categories {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32px;
+
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.gift-categories[hidden],
+.gift-list-area[hidden] {
+  display: none;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 55px 40px 40px;
+
+  text-align: center;
+
+  background: var(--cream-light);
+
+  border: 1px solid rgba(128, 99, 76, 0.18);
+  border-radius: 14px;
+
+  transition:
+    transform 0.35s ease,
+    box-shadow 0.35s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 18px 40px rgba(80, 65, 45, 0.08);
+}
+
+.category-icon {
+  width: 68px;
+  height: 68px;
+
+  color: var(--olive);
+}
+
+.category-script {
+  margin-top: 22px;
+
+  font-family: "Great Vibes", cursive;
+  font-size: clamp(40px, 4.5vw, 54px);
+  font-weight: 400;
+  line-height: 1.1;
+
+  color: var(--olive);
+}
+
+.category-title {
+  margin-top: 14px;
+
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.2em;
+
+  color: var(--text);
+}
+
+.category-divider {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+
+  margin: 24px 0 26px;
+
+  color: var(--olive);
+}
+
+.category-divider span {
+  display: block;
+
+  width: 70px;
+  height: 1px;
+
+  background: var(--champagne);
+}
+
+.category-divider i {
+  font-style: normal;
+  font-size: 13px;
+}
+
+.category-text {
+  max-width: 330px;
+
+  font-size: 14px;
+  line-height: 1.9;
+  letter-spacing: 0.03em;
+
+  color: var(--muted);
+}
+
+.category-button {
+  min-width: 190px;
+  height: 52px;
+
+  margin-top: 34px;
+  padding: 0 34px;
+
+  border: 0;
+  border-radius: 50px;
+
+  background: var(--olive);
+  color: white;
+
+  font-size: 11px;
+  letter-spacing: 0.25em;
+
+  cursor: pointer;
+
+  transition:
+    background 0.3s ease,
+    transform 0.2s ease;
+}
+
+.category-button:hover {
+  background: #6f7556;
+
+  transform: translateY(-2px);
+}
+
+.category-count {
+  margin-top: 18px;
+
+  font-size: 12px;
+  letter-spacing: 0.08em;
+
+  color: var(--muted);
+}
+
+
+/* LISTA ABERTA */
+
+.gift-list-header {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+
+  margin-bottom: 35px;
+}
+
+.gift-list-header h3 {
+  font-family: var(--serif);
+  font-size: clamp(26px, 4vw, 36px);
+  font-weight: 400;
+
+  color: var(--brown);
+}
+
+.gift-back {
+  height: 44px;
+
+  padding: 0 22px;
+
+  border: 1px solid var(--champagne);
+
+  background: transparent;
+
+  color: var(--brown);
+
+  font-size: 9px;
+  letter-spacing: 0.22em;
+
+  cursor: pointer;
+
+  transition:
+    background 0.3s ease,
+    color 0.3s ease;
+}
+
+.gift-back:hover {
+  background: var(--brown);
+
+  color: white;
+}
+
+
+/* =========================
    PAGINAÇÃO DOS PRESENTES
 ========================= */
 
@@ -1712,6 +1903,32 @@ input {
 
   .day-info {
     gap: 40px;
+  }
+
+}
+
+
+/* =========================
+   CATEGORIAS — CELULAR/TABLET PEQUENO
+========================= */
+
+@media (max-width: 700px) {
+
+  .gift-categories {
+    grid-template-columns: 1fr;
+
+    gap: 22px;
+  }
+
+  .category-card {
+    padding: 45px 25px 35px;
+  }
+
+  .gift-list-header {
+    flex-direction: column;
+    align-items: flex-start;
+
+    gap: 14px;
   }
 
 }
