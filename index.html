@@ -22,7 +22,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   <link
-    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600&family=Great+Vibes&display=swap"
     rel="stylesheet"
   >
 
@@ -246,10 +246,10 @@
       </p>
 
       <p class="gift-voltage-note">
-  Obs.: Após escolher o presente, faça a reserva.
-        
-  Para presentes elétricos, considerar a voltagem de 110 V.
-</p>
+        Obs.: Após escolher o presente, faça a reserva.
+
+        Para presentes elétricos, considerar a voltagem de 110 V.
+      </p>
 
     </div>
 
@@ -260,19 +260,107 @@
 
     <div class="section-container">
 
-      <div
-        class="gift-grid"
-        id="gift-grid"
-      >
-        <p class="gift-loading">
-          Carregando presentes...
-        </p>
+      <!-- OS 2 QUADRADOS -->
+      <div class="gift-categories" id="giftCategories">
+
+        <article class="category-card">
+
+          <svg class="category-icon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M26 14a6 6 0 0 1 12 0"/>
+            <path d="M10 24h44"/>
+            <path d="M14 24v18a10 10 0 0 0 10 10h16a10 10 0 0 0 10-10V24"/>
+            <path d="M6 28h4M54 28h4"/>
+            <path d="M32 44s-6-3.6-6-7.4a3.4 3.4 0 0 1 6-2.2 3.4 3.4 0 0 1 6 2.2c0 3.8-6 7.4-6 7.4z"/>
+          </svg>
+
+          <h3 class="category-script">Lista de Presentes</h3>
+
+          <p class="category-title">CHÁ DE COZINHA</p>
+
+          <div class="category-divider">
+            <span></span>
+            <i>♥</i>
+            <span></span>
+          </div>
+
+          <p class="category-text">
+            Se quiser nos presentear, fizemos uma lista com itens que vão nos ajudar a montar nossa cozinha.
+          </p>
+
+          <button class="category-button" type="button" data-category="cha">
+            VER LISTA
+          </button>
+
+          <p class="category-count">
+            <span id="count-cha">0</span> presentes
+          </p>
+
+        </article>
+
+
+        <article class="category-card">
+
+          <svg class="category-icon" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="24" cy="38" r="15"/>
+            <circle cx="40" cy="38" r="15"/>
+            <path d="M32 18s-5-3-5-6.2a2.9 2.9 0 0 1 5-1.9 2.9 2.9 0 0 1 5 1.9c0 3.2-5 6.2-5 6.2z"/>
+          </svg>
+
+          <h3 class="category-script">Lista de Presentes</h3>
+
+          <p class="category-title">CASAMENTO</p>
+
+          <div class="category-divider">
+            <span></span>
+            <i>♥</i>
+            <span></span>
+          </div>
+
+          <p class="category-text">
+            Se quiser nos presentear, fizemos uma lista com itens que vão nos ajudar a construir nossa nova vida juntos.
+          </p>
+
+          <button class="category-button" type="button" data-category="casamento">
+            VER LISTA
+          </button>
+
+          <p class="category-count">
+            <span id="count-casamento">0</span> presentes
+          </p>
+
+        </article>
+
       </div>
 
-      <div
-        class="gift-pagination"
-        id="gift-pagination"
-      ></div>
+
+      <!-- LISTA (aparece depois de clicar em VER LISTA) -->
+      <div class="gift-list-area" id="giftListArea" hidden>
+
+        <div class="gift-list-header">
+
+          <button type="button" class="gift-back" id="giftBack">
+            ← VOLTAR
+          </button>
+
+          <h3 id="giftListTitle"></h3>
+
+        </div>
+
+        <div
+          class="gift-grid"
+          id="gift-grid"
+        >
+          <p class="gift-loading">
+            Carregando presentes...
+          </p>
+        </div>
+
+        <div
+          class="gift-pagination"
+          id="gift-pagination"
+        ></div>
+
+      </div>
 
     </div>
 
